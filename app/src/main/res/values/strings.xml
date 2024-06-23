@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Практика 17_1</string>
+    <string name="chose_a">Выбор действия</string>
+    <string name="choose">Выберите действие</string>
+    <string name="save_a">Сохранить</string>
+    <string name="good">Успешно</string>
+    <string name="save">Успешное сохранение</string>
+    <string name="load123">Успешная загрузка</string>
+    <string name="go">Продолжить</string>
+    <string name="load">Загрузить</string>
+</resources>
